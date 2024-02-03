@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PfStIl07Cg6EtLQCFVIug5JDj5rE3dXO5pm/A1kgl6w=",
+  "Source": "fizzbuzz",
+  "BasePath": "_content/fizzbuzz",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
